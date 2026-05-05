@@ -4,8 +4,6 @@ import com.fag.lucasmartins.arquitetura_software.core.domain.exceptions.DomainEx
 
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.UUID;
-
 
 public class PessoaBO {
 
